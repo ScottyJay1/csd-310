@@ -1,2 +1,2 @@
 # csd-310
-School Repository
+Academic Repository I used for database development
